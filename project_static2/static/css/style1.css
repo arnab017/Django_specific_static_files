@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: black;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+.box{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
